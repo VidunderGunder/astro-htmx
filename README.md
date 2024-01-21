@@ -11,7 +11,7 @@ bun i
 bun dev
 ```
 
-## 🚀 Project Structure
+## 🗄️ Project Structure
 
 Inside of the Astro project, you'll see the following folders and files:
 
